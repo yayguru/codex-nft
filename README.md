@@ -27,7 +27,7 @@ We're seeking talented artists from our community to help bring this vision to l
   - Data durability (e.g., vaults, digital fortresses)
 
 ### Technical Requirements
-- Final artwork dimensions: 3000x3000 pixels
+- Final artwork dimensions: maximum size of no larger than (4K) 3840x2160 pixels with 16:9 aspect ratio or 1:1 square format no larger than 3000x3000 pixels
 - Format: PNG or SVG with transparent background
 - Color space: RGB
 - File size: Maximum 20MB per artwork
